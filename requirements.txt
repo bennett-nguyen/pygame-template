@@ -1,1 +1,7 @@
-pygame>=2.1.2
+# DO NOT INSTALL BOTH COMMUNITY AND THE OLD EDITION SINCE IT CAN CREATE NAMESPACE CONFLICT 
+
+# community edition
+pygame-ce>=2.1.4
+
+# end-of-support pygame edition
+# pygame>=2.1.2
